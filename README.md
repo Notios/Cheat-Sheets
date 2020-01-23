@@ -5,3 +5,8 @@ Cheat sheets for programming languages
 - HTML
   - [Meta Tags](https://github.com/Notios/Cheat-Sheets/blob/master/HTML-Meta-Tags.md)
   - [Basic Tags](https://github.com/Notios/Cheat-Sheets/blob/master/tutorial.html)
+## Mini Project
+  - [HTML](https://github.com/Notios/Cheat-Sheets/blob/master/myhtml.html)
+  - [CSS](https://github.com/Notios/Cheat-Sheets/blob/master/mycss.css)
+  - [JavaScript](https://github.com/Notios/Cheat-Sheets/blob/master/myjs.js)
+  
